@@ -4,7 +4,12 @@ Clean up Template and policy
 Cleans up all the device and feature temaplte which not attached to any device.
 
 
+Executable file clean.py
 (SDWAN-CLEAN-UP) shreredd@SHREREDD-M-856H SDWAN-CLEAN-UP % python3 clean.py
+
+
+
+
  Deleted Device Template - CAT-8000-SITE-10-HUB-1234 
  Deleted Device Template - CSR-template-1234 
  Deleted Device Template - vEdge-cloud-template 
