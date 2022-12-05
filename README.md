@@ -3,6 +3,7 @@ Clean up Template and policy
 
 Cleans up all the device and feature temaplte which not attached to any device.
 
+++ Modify vmanage_login1.yaml
 
 Executable file clean.py
 (SDWAN-CLEAN-UP) shreredd@SHREREDD-M-856H SDWAN-CLEAN-UP % python3 clean.py
