@@ -10,7 +10,7 @@ class Authentication:
     def get_jsessionid(vmanage_host : str, vmanage_port : str,
                        username : str, password : str):
         api = "/j_security_check"
-        base_url = "https://%s:%s"%(vmanage_host, vmanage_port)
+        base_url = "https://%s:%s/login.html"%(vmanage_host, vmanage_port)
         url = base_url + api
         payload = {'j_username' : username, 'j_password' : password}
 
