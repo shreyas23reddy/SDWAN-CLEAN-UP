@@ -2,3 +2,12 @@ vmanage_host: <vmanageIP>
 vmanage_password: '<vmanagePassword>'
 vmanage_port: '<port>'
 vmanage_username: <username>
+
+#time is in GMT
+
+year : 2022
+month : 12
+day : 12
+hour : 22
+minutes : 20
+seconds : 0
